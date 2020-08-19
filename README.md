@@ -1,2 +1,2 @@
 # Color_Guessing_Game1.0
-It is Guessing where we have to guess the color given in rgb Format by selecting the Square of the color.Also i tried to apply the difficulty level Option. Give It A try!!
+It is Guessing and player have to guess the color given in rgb Format by selecting the square of the that color.The color generated will be random with the two difficulty level options Easy and Hard .Give it a try and Enjoy!
